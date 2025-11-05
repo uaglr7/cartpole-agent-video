@@ -30,7 +30,7 @@ The results are shown visually with videos **before**, **during**, and **after**
 The following videos show the **evolution of the agent**:
 
 | Phase | Description |
-|-------|--------------|------|
+|-------|--------------|
 | **Before Training** | The agent moves randomly, and the pole falls quickly. | 
 | **During Training** | Shows the neural network improving through multiple episodes. |
 | **After Training** | The trained agent keeps the pole balanced successfully. |
